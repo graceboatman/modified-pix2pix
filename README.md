@@ -1,7 +1,7 @@
 # modified-pix2pix
 pix2pix Pytorch Implementation
 
-<img src='imgs/test_image' align="right" width=384>
+<img src='imgs/test_image.png' align="right" width=384>
 
 
 We followed the pix2pix model architecture as suggested by the authors in [Original Paper](https://arxiv.org/abs/1611.07004) with the following changes: 
