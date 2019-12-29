@@ -12,6 +12,6 @@ Our implementation includes: <br>
 * Skip connections in the generator <br>
 * Added discriminator receptive field size options
 
-<img src='imgs/architecture.png' align="center" width=400> <br>
+<img src='imgs/architecture.png' align="center" width=500> <br>
 
 <img src='imgs/discriminator.png' align="center" width=400>
